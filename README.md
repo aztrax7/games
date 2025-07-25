@@ -4,7 +4,6 @@ This repository contains Python-based games that I’ve created as part of my pr
 
 I'll keep adding new games as I learn more!
 
----
 
 ## 🕹️ Current Game(s)
 
@@ -17,7 +16,6 @@ Features:
 
 Run it in a Jupyter Notebook or export as a `.py` script to play.
 
----
 
 ## 🚀 Goals of This Repository
 
@@ -25,7 +23,6 @@ Run it in a Jupyter Notebook or export as a `.py` script to play.
 - Build a portfolio of creative, logic-driven projects
 - Learn to use game libraries and event handling
 
----
 
 ## 📌 How to Run
 
@@ -35,14 +32,12 @@ These games are built in **Jupyter Notebook** format (`.ipynb`). You can run the
 - **Google Colab**
 - **VS Code** with Jupyter extension
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
 You’re welcome to use, share, or modify the code for your own learning or fun projects!
 
----
 
 ## 📈 Coming Soon
 
