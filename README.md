@@ -4,6 +4,7 @@ This repository contains Python-based games that I’ve created as part of my pr
 
 I'll keep adding new games as I learn more!
 
+---
 
 ## 🚀 Goals of This Repository
 
@@ -11,8 +12,9 @@ I'll keep adding new games as I learn more!
 - Build a portfolio of creative, logic-driven projects
 - Learn to use game libraries and event handling
 
+---
 
-## 📌 How to Run
+## 🛠 How to Run
 
 These games are built in **Jupyter Notebook** format (`.ipynb`). You can run them in:
 
@@ -20,19 +22,18 @@ These games are built in **Jupyter Notebook** format (`.ipynb`). You can run the
 - **Google Colab**
 - **VS Code** with Jupyter extension
 
+---
 
-## 📄 License
+## 🤝 Contributions
+
+This is a personal learning space, but if you have suggestions or want to contribute in some way, feel free to fork or open an issue!
+
+---
+
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).  
 You’re welcome to use, share, or modify the code for your own learning or fun projects!
 
-
-## 📈 Coming Soon
-
-Planned future games and enhancements:
-- Tic-Tac-Toe
-- Number guessing game
-- Brick Breaker (Pygame)
-- Multiplayer or timed versions
 
 Stay tuned! 🚧
