@@ -32,8 +32,6 @@ This is a personal learning space, but if you have suggestions or want to contri
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).  
-You’re welcome to use, share, or modify the code for your own learning or fun projects!
-
+This repository is licensed under the [MIT License](LICENSE) — you're free to use the code for learning or building your own projects.
 
 Stay tuned! 🚧
