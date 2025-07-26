@@ -5,18 +5,6 @@ This repository contains Python-based games that I’ve created as part of my pr
 I'll keep adding new games as I learn more!
 
 
-## 🕹️ Current Game(s)
-
-### 🔸 `snake_game/`
-A classic implementation of the Snake Game built using Python.  
-Features:
-- Interactive movement
-- Growing snake and collision detection
-- Score tracking
-
-Run it in a Jupyter Notebook or export as a `.py` script to play.
-
-
 ## 🚀 Goals of This Repository
 
 - Practice Python fundamentals through game development
