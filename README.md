@@ -1,5 +1,7 @@
 # 🎮 games
 
+Welcome to my personal collection of Python games!
+
 This repository contains Python-based games that I’ve created as part of my programming journey. These projects are designed to be fun, interactive, and educational — helping me practice logic, graphics, and user interaction in Python.
 
 I'll keep adding new games as I learn more!
