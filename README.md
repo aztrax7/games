@@ -16,11 +16,8 @@ I'll keep adding new games as I learn more!
 
 ## 🛠 How to Run
 
-These games are built in **Jupyter Notebook** format (`.ipynb`). You can run them in:
-
-- **Jupyter Notebook / JupyterLab**
-- **Google Colab**
-- **VS Code** with Jupyter extension
+- All the projects can be found in their respectively named folders. Each one of them contain the code and a ``readme.md`` file to help you guys understand what the project does!
+- All the projects, so far, are written in Python and formatted as Jupyter Notebooks (`.ipynb`). You can open them locally by copying the code into your preferred IDLE (Integrated Development Learning Environment) and running it!
 
 ---
 
